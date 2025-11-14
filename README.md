@@ -34,7 +34,6 @@ Berikut adalah beberapa temuan kunci dari analisis yang dilakukan, berdasarkan o
 ### 1. Tren Pendapatan Mingguan
 
 ![Tren Pendapatan Mingguan](https://github.com/Sandruuuu/KKA/blob/f87c6089fd4c582e7cf623ce2c0e8f1a88b43cb4/Screenshot%202025-11-14%20at%2009-33-16%20KKA_Praktikum_Lanjutan_Analisis_Data.ipynb%20at%20main%20%C2%B7%20Sandruuuu_KKA.png)
-*(Catatan: Ganti link di atas dengan path gambar Anda jika Anda menyimpannya di repo)*
 
 Grafik *line plot* ini menunjukkan fluktuasi total pendapatan per minggu selama tahun 2024 (dari Januari hingga Juli).
 
@@ -46,7 +45,6 @@ Grafik *line plot* ini menunjukkan fluktuasi total pendapatan per minggu selama 
 ### 2. Analisis Kuantitas Produk Terjual
 
 ![Jumlah Produk Terjual](https://github.com/Sandruuuu/KKA/blob/f87c6089fd4c582e7cf623ce2c0e8f1a88b43cb4/Screenshot%202025-11-14%20at%2009-33-10%20KKA_Praktikum_Lanjutan_Analisis_Data.ipynb%20at%20main%20%C2%B7%20Sandruuuu_KKA.png)
-*(Catatan: Ganti link di atas dengan path gambar Anda)*
 
 Grafik *bar plot* ini membandingkan rata-rata jumlah (kuantitas) unit yang terjual untuk setiap kategori produk.
 
@@ -60,7 +58,6 @@ Grafik *bar plot* ini membandingkan rata-rata jumlah (kuantitas) unit yang terju
 ### 3. Analisis Pendapatan Bersih per Produk
 
 ![Pendapatan Bersih per Produk](https://github.com/Sandruuuu/KKA/blob/f87c6089fd4c582e7cf623ce2c0e8f1a88b43cb4/Screenshot%202025-11-14%20at%2009-33-27%20KKA_Praktikum_Lanjutan_Analisis_Data.ipynb%20at%20main%20%C2%B7%20Sandruuuu_KKA.png)
-*(Catatan: Ganti link di atas dengan path gambar Anda)*
 
 Grafik *bar plot* ini membandingkan rata-rata pendapatan bersih (profit) yang dihasilkan oleh setiap kategori produk.
 
