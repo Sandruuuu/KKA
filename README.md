@@ -78,7 +78,7 @@ Strategi bisnis dapat disesuaikan berdasarkan temuan ini, misalnya dengan melaku
 
 ## 🚀 Cara Menjalankan Notebook
 
-Untuk menjalankan notebook ini di lingkungan lokal Anda:
+Untuk menjalankan notebook ini di lingkungan lokal:
 
 1.  **Clone repositori ini:**
     ```bash
